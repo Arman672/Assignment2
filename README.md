@@ -1,2 +1,2 @@
-# Assignment2
+#FunctionUp Assignment2
 Basic photo gallery using html and css
